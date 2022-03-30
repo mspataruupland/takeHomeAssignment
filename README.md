@@ -14,7 +14,7 @@ Instructions
 
 - Go to issue #1. This is the Base of this project and is mandatory to complete. 
 
-- In addition to #1, complete 1 to 3 additional items as time permits. Submit pull requests for each. 
+- In addition to #1, complete up to 3 additional items as time permits. Submit pull requests for each. 
 
 
 Hints
