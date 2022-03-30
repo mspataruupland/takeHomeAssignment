@@ -10,7 +10,7 @@ Instructions
 
 - Allocate between 2-4 hours for this assignment.
 
-- Your project code should be completed in the [main](./main) folder.
+- Complete your project code in the [main](./main) folder.
 
 - Go to issue #1. This is the Base of this project and is mandatory to complete. 
 
@@ -24,7 +24,7 @@ Hints
 
 - You will notice that each issue has labels for the level of difficulty and targets frontend or backend implementation. This should help you choose the tasks that are a good fit for your skills.
 
-- The issues provide a high degree of freedom, and the implementation can be simple or complex. It is up to you to decide where to put more or less effort. This is a very simplistic project, but even on a project this small you can identify real life scenarios.
+- The issues provide a high degree of freedom, and the implementation for each of them can be simple or complex. It is up to you to decide where to put more or less effort. This is a very simplistic project, but even on a project this small you can identify real life scenarios.
 
 
 
