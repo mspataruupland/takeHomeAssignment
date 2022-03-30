@@ -1,5 +1,5 @@
 
-The scope of this take home assignment is to build from scratch a web application for uploading and displaying a list of products from a tab delimited file. There is no hard requirement on the programming language, so feel free to use the technologies that you feel the most comfortable with.
+The scope of this take home assignment is to build from scratch a simple web application for uploading and displaying a list of products from a tab delimited file. There is no hard requirement on the programming language, so feel free to use the technologies that you feel the most comfortable with.
 
 You should allocate between 2-4 hours for this assignment.
 
