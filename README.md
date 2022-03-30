@@ -1,26 +1,30 @@
 
-The scope of this take home assignment is to build from scratch a simple web application for uploading and displaying a list of products from a tab delimited file. There is no hard requirement on the programming language, so feel free to use the technologies that you feel the most comfortable with.
-
-You should allocate between 2-4 hours for this assignment.
+Build from scratch a simple web application for uploading and displaying a list of products from a tab delimited file. 
 
 
 
 Instructions
 -------------
 
-- Under the issues tab there is a set of tasks for the project. 
+- Select the technologies that you feel the most comfortable with.
 
-- Issue #1 is the Base of this project and is mandatory. 
+- Allocate between 2-4 hours for this assignment.
 
-- Besides #1 pick between 1 and 3 additional items to implement, and submit pull requests for each. 
+- Your project code should be completed in the [main](./main) folder.
 
-- You will notice that each issue has labels for the level of difficulty and targets fronend or backend implementation. This should help you choose the tasks that are a good fit for your skills.
+- Go to issue #1. This is the Base of this project and is mandatory to complete. 
+
+- In addition to #1, complete 1 to 3 additional items as time permits. Submit pull requests for each. 
+
+
+Hints
+-------------
+
+- Add notes, observations or instructions to run your code to [Candidate_Notes.txt](./Candidate_Notes.txt).
+
+- You will notice that each issue has labels for the level of difficulty and targets frontend or backend implementation. This should help you choose the tasks that are a good fit for your skills.
 
 - The issues provide a high degree of freedom, and the implementation can be simple or complex. It is up to you to decide where to put more or less effort. This is a very simplistic project, but even on a project this small you can identify real life scenarios.
-
-- Add your project code in [main](./main) folder
-
-- If you have any notes, observations or instructions to run your code that you'd like for the code reviewer to be aware of, please add them to [Candidate_Notes.txt](./Candidate_Notes.txt).
 
 
 
